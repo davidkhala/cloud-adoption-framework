@@ -11,3 +11,9 @@ The bootstrap step includes 2 projects
 
 ## 1. [org](https://github.com/terraform-google-modules/terraform-example-foundation#1-org)
 Terraform code is deployed by your chosen CI/CD tool in step [0. bootstrap](#0-bootstrap)
+
+
+## 2. Catelog
+[Catelog](https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints)
+
+
