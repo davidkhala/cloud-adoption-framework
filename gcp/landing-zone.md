@@ -14,7 +14,7 @@ A blueprint is a package of deployable, reusable configuration and policy that i
 - Part of landing zone technical best practices
 
 ### Security Foundation Terraform blueprint 
-It consists of step [0](https://github.com/davidkhala/cloud-adoption-framework/edit/main/gcp/CFT.md#0-bootstrap) and [1](https://github.com/davidkhala/cloud-adoption-framework/edit/main/gcp/CFT.md#1-org) of Cloud Foundation Toolkit
+It consists of step [0](https://github.com/davidkhala/cloud-adoption-framework/blob/main/gcp/CFT.md#0-bootstrap) and [1](https://github.com/davidkhala/cloud-adoption-framework/blob/main/gcp/CFT.md#1-org) of Cloud Foundation Toolkit
 
 ## Kubernetes Resource Model (KRM) blueprints
 - Not part of landing zone technical best practices
