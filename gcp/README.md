@@ -15,7 +15,7 @@ Discuss within your team which stage of cloud maturity your business should aim 
 - Challenge: stakeholders across different levels of your IT organization will not be aligned and that they’ll point out that the incentives vs. risks don’t yet match their aspirations.
 - Solution: Consider focusing on tactical objectives in the near term to serve as a stepping stone for later strategic or long-term transformational objectives.
 
-# Plan: your cloud adoption program getting started
+# getting started: your cloud adoption program 
 Take action on any cloud adoption epic. Keep in mind that your actions are a means to one of four ends
 - developing a training program
 - devising your change management program
