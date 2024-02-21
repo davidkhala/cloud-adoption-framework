@@ -15,9 +15,16 @@ Discuss within your team which stage of cloud maturity your business should aim 
 - Challenge: stakeholders across different levels of your IT organization will not be aligned and that they’ll point out that the incentives vs. risks don’t yet match their aspirations.
 - Solution: Consider focusing on tactical objectives in the near term to serve as a stepping stone for later strategic or long-term transformational objectives.
 
-# Plan: your cloud adoption program
+# Plan: your cloud adoption program getting started
 Take action on any cloud adoption epic. Keep in mind that your actions are a means to one of four ends
 - developing a training program
 - devising your change management program
 - designing your cloud operating model
 - securely setting up your Google Cloud Platform (GCP) account
+# Next: Find the right workloads
+Start with simple, non-business-critical applications to develop the muscles and confidence in your cloud competencies. 
+
+As you develop your organization’s abilities to learn, to lead, to scale, and to secure, you should also be ready to tackle more complex and critical applications in lockstep. 
+
+- begin with workloads: A startup company may have a bias toward action, putting workloads into production quickly and assuming greater operational risk in return.
+- begin with a cloud operating model: An enterprise with a top-down cloud adoption approach may prefer to first invest in a cloud operating model and playbooks before any workloads are deployed in the cloud.
