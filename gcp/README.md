@@ -13,4 +13,11 @@ You can use the framework yourself to make an assessment of your organization's 
 # Goal: Ask yourself how far you want to go
 Discuss within your team which stage of cloud maturity your business should aim for.
 - Challenge: stakeholders across different levels of your IT organization will not be aligned and that they’ll point out that the incentives vs. risks don’t yet match their aspirations.
-- Solution: Consider focusing on tactical objectives in the near term to serve as a stepping stone for later strategic or long-term transformational objectives. 
+- Solution: Consider focusing on tactical objectives in the near term to serve as a stepping stone for later strategic or long-term transformational objectives.
+
+# Plan: your cloud adoption program
+Take action on any cloud adoption epic. Keep in mind that your actions are a means to one of four ends
+- developing a training program
+- devising your change management program
+- designing your cloud operating model
+- securely setting up your Google Cloud Platform (GCP) account
