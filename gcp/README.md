@@ -1,4 +1,20 @@
 [presented in white-paper](https://services.google.com/fh/files/misc/google_cloud_adoption_framework_whitepaper.pdf)
 
+
+# Executive Summary
+The Google Cloud Adoption Framework builds a structure on the rubric of people, process, and technology that you can work with, providing a solid assessment of where you are in your journey to the cloud and actionable programs that get you to where you want to be. 
+
+It’s informed by Google’s own evolution in the cloud and many years of experience helping customers
+
 GCP believe: CAF includes the [Cloud Maturity Scale](./Cloud-Maturity-Scale.md) and the [epics](./epic.md)
 
+
+
+# Assess
+- Work with a Technical Account Manager (TAM) to perform a high-level assessment of your organization’s cloud maturity, streamlines your cloud adoption journey
+- The assesement will prioritize your training and change management programs, your partner relationships, your cloud operating model, and your secure account configuration.
+
+# Goal: Ask yourself how far you want to go
+Discuss within your team which stage of cloud maturity your business should aim for.
+- Challenge: stakeholders across different levels of your IT organization will not be aligned and that they’ll point out that the incentives vs. risks don’t yet match their aspirations.
+- Solution: Consider focusing on tactical objectives in the near term to serve as a stepping stone for later strategic or long-term transformational objectives. 
