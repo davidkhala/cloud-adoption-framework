@@ -1,7 +1,7 @@
 # Cloud Maturity Scale
 ![image](https://user-images.githubusercontent.com/7227589/209492878-66bb1704-cb48-4648-9dc6-5559439c5cac.png)
 
-## Themes (realms)
+## 4 Themes (realms)
 - Learn
 - Lead
   - The extent to which IT teams are supported by a mandate from leadership to 
