@@ -46,3 +46,11 @@ Focus
 - integrating the data and insights garnered from working now in the cloud
 - Transform IT from a cost center to a partner to the business.
 
+# Assess
+- Work with a Technical Account Manager (TAM) to perform a high-level assessment of your organization’s cloud maturity, streamlines your cloud adoption journey
+- The assesement will prioritize your training and change management programs, your partner relationships, your cloud operating model, and your secure account configuration.
+
+# Goal: Ask yourself how far you want to go
+Discuss within your team which stage of cloud maturity your business should aim for.
+- Challenge: stakeholders across different levels of your IT organization will not be aligned and that they’ll point out that the incentives vs. risks don’t yet match their aspirations.
+- Solution: Consider focusing on tactical objectives in the near term to serve as a stepping stone for later strategic or long-term transformational objectives. 
