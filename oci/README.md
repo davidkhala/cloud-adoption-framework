@@ -1,0 +1,3 @@
+# [Cloud Adoption Framework (CAF)](https://docs.oracle.com/en-us/iaas/Content/cloud-adoption-framework/home.htm)
+- prescriptive guidance for your organization to plan, adapt, and iterate while adopting the cloud.
+- People strategy: To build an extended multidisciplinary team that includes both business and technical stakeholders. Its role is to lead your organizational change management process, and to define roles, responsibilities, and training plans for business and technical users.
